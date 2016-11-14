@@ -1,0 +1,16 @@
+jaffe/KA.AN2.40.tiff 1
+jaffe/KA.AN3.41.tiff 1
+jaffe/MK.AN1.125.tiff 5
+jaffe/MK.AN2.126.tiff 5
+jaffe/KA.FE2.46.tiff 1
+jaffe/KA.FE3.47.tiff 1
+jaffe/MK.FE1.131.tiff 5
+jaffe/MK.FE2.132.tiff 5
+jaffe/KA.HA1.29.tiff 1
+jaffe/KA.HA2.30.tiff 1
+jaffe/MK.HA1.116.tiff 5
+jaffe/MK.HA3.118.tiff 5
+jaffe/KA.SU2.37.tiff 1
+jaffe/KA.SU3.38.tiff 1
+jaffe/MK.SU2.123.tiff 5
+jaffe/MK.SU3.124.tiff 5

@@ -1,0 +1,13 @@
+net: "/home/yupeng/caffe/yyp/CKER/c12c24c32.prototxt"
+test_iter: 30
+test_interval: 1000
+base_lr: 0.001
+lr_policy: "inv"
+display: 1000
+max_iter: 4000
+momentum: 0
+weight_decay: 0.0005
+snapshot: 1000
+snapshot_prefix: "/home/yupeng/caffe/yyp/CKER/cker_mod/CKER"
+solver_mode: GPU
+random_seed: 42
